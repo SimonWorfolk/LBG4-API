@@ -1,0 +1,9 @@
+.dockerignore
+Dockerfile
+kubernetes
+pakage-lock.json
+.gitignore
+.git
+coverage
+documentation
+node-modules
