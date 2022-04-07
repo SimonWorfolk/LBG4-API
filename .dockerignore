@@ -1,7 +1,7 @@
 .dockerignore
 Dockerfile
 kubernetes
-pakage-lock.json
+package-lock.json
 .gitignore
 .git
 coverage
