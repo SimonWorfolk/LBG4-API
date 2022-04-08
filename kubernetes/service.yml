@@ -21,7 +21,7 @@ metadata:
 spec:
   replicas: 3
   selector:
-    matchLabel:
+    matchLabels:
       app: nginx-fe
   strategy:
     rollingUpdate:
