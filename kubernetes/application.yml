@@ -33,6 +33,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: gcr.io/lbg-210322/simon-lbg-210322:v1
+        image: gcr.io/lbg-210322/simon-lbg-210322:{{TAG}}
         ports:
         - containerPort: 5000
